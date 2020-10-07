@@ -1,1 +1,3 @@
-# esg_report_parser_demo
+# Демо парсинга отчетов Environmental, Social and Governance
+
+![](greenhouse_gas_emissions.gif)
